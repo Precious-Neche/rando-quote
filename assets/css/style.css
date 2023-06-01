@@ -1,0 +1,29 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8rem;
+    background: url(/assets/images/background-img.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    
+}
+.container{
+    background: url(/assets/images/background-img.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.container .row .col-md-8 .card{
+    background: url(/assets/images/background-img.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+
+.container .row .col-md-8 .card .btn-cont .btn{
+   background-color: blue;
+}
