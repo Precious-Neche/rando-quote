@@ -42,7 +42,7 @@ body {
   justify-content: center;
   align-items: center;
 
-  background: url("../images/background-img.jpg") center center / cover no-repeat;
+  background: url("../images/background-img.png") center center / cover no-repeat;
   position: relative;
   padding: 2rem 1rem;
 }
